@@ -9,5 +9,5 @@
 
 ## Запуск
 ```
-python guess_game.py
+python guess_word.py
 ```
